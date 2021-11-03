@@ -1,6 +1,6 @@
 ### Hi there! I'm Sewoong Eum👋
 
-Android developer and Data Scientists working in Wonderweeks Company.<br>
+Android developer & Data Scientists working in Wonderweeks Company.<br>
 If you want to contact me, please see below! <br>
 📫 How to reach me: exopas58@gmail.com
 <!--
