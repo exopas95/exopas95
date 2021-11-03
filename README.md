@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Sewoong Eum👋
 
+Android developer and Data Scientists working in Wonderweeks Company.
+If you want to contact me, please see below!
+📫 How to reach me: exopas58@gmail.com
 <!--
 **exopas95/exopas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
